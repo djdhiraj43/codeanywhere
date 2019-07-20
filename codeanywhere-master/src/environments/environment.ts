@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: "http://mean-stack-with-comments.herokuapp.com:3000/api"
+  apiUrl: "https://mean-stack-with-comments.herokuapp.com:3000/api"
 };
 
 /*

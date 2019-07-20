@@ -12,7 +12,7 @@ exports.config = {
     'browserName': 'chrome'
   },
   directConnect: true,
-  baseUrl: 'http://mean-stack-with-comments.herokuapp.com:4200/',
+  baseUrl: 'https://mean-stack-with-comments.herokuapp.com:4200/',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
